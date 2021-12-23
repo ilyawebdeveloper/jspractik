@@ -10,7 +10,7 @@ headers.forEach(function(item){
      console.log(this);
      console.log(this.nextElementSibling);
 
-     this.nextElementSibling.classList.toggle('nidden');
+     this.nextElementSibling.classList.toggle('nidden');//nextElementSibling.classList следующий жлемент добавляет или убирает класс 
 
    })
 
