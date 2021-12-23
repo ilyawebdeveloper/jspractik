@@ -1,0 +1,32 @@
+body{
+   margin: 0;
+   padding: 0;
+}
+
+.container{
+   width: 1200px;
+   height: auto;
+   margin: 0 auto;
+   font-size: 30px;
+}
+
+.list-group{
+   width: 600px;
+   margin: 0 auto;
+}
+
+.nidden{
+   display: none;
+}
+
+.list-content{
+   background-color: gray;
+}
+
+
+.list-group-item{
+   margin-top: 50px;
+   text-decoration: none;
+   color: black;
+}
+
